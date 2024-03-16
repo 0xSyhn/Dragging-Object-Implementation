@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+.box{
+    padding: 100px 100px;
+}
+
+body{
+   background: #000;
+   height: 100vh;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+.box{
+    border: 5px solid #fff;
+    position: absolute;
+}
